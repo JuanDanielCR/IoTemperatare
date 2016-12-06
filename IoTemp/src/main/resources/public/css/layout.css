@@ -1,0 +1,9 @@
+document{
+	font-size: 18px;
+}
+#last{
+	font-size: 5.5em;
+	text-align: center;
+	margin: 0.5em 0;
+	color: orange;
+}
